@@ -22,7 +22,7 @@
         "atma-utils": "^0.1.31",
         "benchmark": "^1.0.0",
         "body-parser": "~1.4.3",
-        "diff": "~1.0.8",
+        "diff": "~3.5.0",
         "domtest": "^0.10.34",
         "dts-bundle": "^0.7.3",
         "includejs": "^0.15.41",
