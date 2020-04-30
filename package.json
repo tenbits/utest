@@ -26,7 +26,7 @@
         "domtest": "^0.10.34",
         "dts-bundle": "^0.7.3",
         "includejs": "^0.15.41",
-        "jquery": "^2.1.4",
+        "jquery": "^3.5.0",
         "maskjs": "^0.61.16",
         "sinon": "^1.15.4",
         "socket.io-client": "^1.3.5"
